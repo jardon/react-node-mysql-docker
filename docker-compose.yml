@@ -14,7 +14,7 @@ services:
       - "db"
       - "server"
     volumes:
-      - ./web/training:/app:rw
+      - ./web:/app:rw
     stdin_open: true
   
   server:
