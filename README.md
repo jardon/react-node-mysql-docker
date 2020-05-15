@@ -1,4 +1,6 @@
-# AST Training
+# Project Title
+## Project Description
+Enter project description here.
 
 ## Build Directions
 ### Dependencies
@@ -39,7 +41,7 @@ sudo systemctl start docker
 ```
 #### Clone Repository
 ```bash
-git clone https://gitlab.com/jardon/ast-training.git /path/to/desired/destination
+git clone <git_address> /path/to/desired/destination
 ```
 **__NOTE:__** You can omit the path if you want to clone it to the current directory
 
